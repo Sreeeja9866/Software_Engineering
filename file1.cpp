@@ -7,7 +7,7 @@ void swap(int &a, int &b) {
 }
 
 int main() {
-    int num1, num2;
+    int a, b;
 
     std::cout << "Enter first number: ";
     std::cin >> num1;
